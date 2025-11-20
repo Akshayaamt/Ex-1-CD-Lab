@@ -1,6 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Name : AKSHAYAA M T
 # Register Number : 212223110002
-# Date : 18/11/2025
+# Date : 28/10/2025
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
